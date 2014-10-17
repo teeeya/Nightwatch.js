@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="postcodeSearch"
+             errors="1"
+             failures="1"
+             tests="3">
+  
+  <testsuite errors="1" failures="1" hostname="" id=""
+    name="Postcode Search" package="postcodeSearch" skipped="1"
+    tests="3" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 51 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;.results-page-title&gt; contains text: &quot;Your best matched clinics&quot;. Element could not be located.">
+        
+          <failure message="Expected &quot;Your best matched clinics&quot; but got: &quot;null&quot;"></failure>
+        
+        
+      </testcase>
+    
+    
+      <system-err>
+        Cannot call method &#39;end&#39; of undefined
+Unable to locate element: &quot;.results-page-title&quot; using: css selector
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>

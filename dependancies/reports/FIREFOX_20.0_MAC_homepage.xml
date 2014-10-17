@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="homepage"
+             errors="0"
+             failures="0"
+             tests="2">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Juvederm" package="homepage" skipped="0"
+    tests="2" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 110 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Testing if element &lt;.results-page-title&gt; contains text: &quot;Your best matched clinics&quot;.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+</testsuites>
